@@ -1,2 +1,2 @@
-ini file 4
+ini file 4 saya menambahkan kalimat baru
 ini saya edit di materi rebase langsung dari github
